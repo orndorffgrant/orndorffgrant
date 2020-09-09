@@ -1,6 +1,6 @@
 ### Hey I'm Grant
 
-Checkout (ha) some of my projects below, or visit my [website](https://orndorffgrant.com/) listed on the left. Or don't - that's cool too.
+Checkout (ha) some of my projects below. Or maybe visit my [website](https://orndorffgrant.com/) where I talk about tech. Or don't - that's cool too.
 
 Some things I'm excited about or learning about:
 - 💻 [Onivim2](https://github.com/onivim/oni2): Vim + VSCode = 🤩
