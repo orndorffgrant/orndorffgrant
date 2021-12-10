@@ -1,6 +1,6 @@
 ### Hey I'm Grant
 
-Checkout (ha) some of my projects below. Or maybe visit my [website](https://orndorffgrant.com/) where I talk about tech. Or don't - that's cool too.
+Checkout (ha) some of my projects below. Or maybe visit my [website](https://orndorffgrant.com/) where I talk about tech (occasionally). Or don't - that's cool too.
 
 Some things I'm excited about or learning about:
 - 📨 Talking on the [Matrix](https://matrix.org/): Reach me at [@orndorffgrant:matrix.org](https://matrix.to/#/@orndorffgrant:matrix.org)
